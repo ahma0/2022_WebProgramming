@@ -40,3 +40,9 @@
     <td><a href='https://nadudan.github.io/2022_WebProgramming/main.html'>웹페이지 가기</a></td>
   </tr>
 </table>
+
+<hr>
+
+### 웹 화면
+
+<a href="https://nadudan.github.io/2022_WebProgramming/main.html"><img src="https://drive.google.com/uc?export=view&id=1GecYDIleRAQHmGN09sUoH8fxCS0oH2lE" ></a>
