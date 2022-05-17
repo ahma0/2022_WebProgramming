@@ -52,7 +52,7 @@ $(document).ready(function ($) {
 
             function resize() {
                 width = window.innerWidth;
-                height = window.innerHeight;
+                height = window.innerHeight / 2;
                 container.style.height = height + 'px';
                 canvas.width = width;
                 canvas.height = height;
