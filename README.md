@@ -12,7 +12,7 @@
     <td>참여인원</td>
     <td>1명</td>
     <td>개발환경</td>
-    <td>HTML5, CSS3, JavaScript, JQuery</td>
+    <td>HTML5, CSS3, JavaScript, JQuery, PaperJS</td>
   </tr>
   <tr rowspan = 2>
     <td>목적</td>
@@ -41,8 +41,10 @@
   </tr>
 </table>
 
-<hr>
+<hr><hr><br>
 
 ### 웹 화면
 
-<a href="https://nadudan.github.io/2022_WebProgramming/main.html"><img src="https://drive.google.com/uc?export=view&id=1GecYDIleRAQHmGN09sUoH8fxCS0oH2lE" ></a>
+> click and go to web site
+
+<a href="https://nadudan.github.io/2022_WebProgramming/main.html"><img src="https://user-images.githubusercontent.com/84761609/169024846-6137eb8d-38ff-40a7-a9af-6ea832d340c6.png" ></a>
