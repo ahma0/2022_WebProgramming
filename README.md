@@ -47,4 +47,4 @@
 
 > click and go to web site
 
-<a href="https://nadudan.github.io/2022_WebProgramming/main.html"><img src="https://user-images.githubusercontent.com/84761609/169024846-6137eb8d-38ff-40a7-a9af-6ea832d340c6.png" ></a>
+<a href="https://nadudan.github.io/2022_WebProgramming/main.html"><img src="https://github.com/NadudAn/2022_WebProgramming/blob/main/images/gif.gif?raw=true" ></a>
