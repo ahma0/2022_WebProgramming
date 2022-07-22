@@ -37,7 +37,7 @@
     <td>기타</td>
     <td>웹프로그래밍 과제</td>
     <td>결과물</td>
-    <td><a href='https://nadudan.github.io/2022_WebProgramming/main.html'>웹페이지 가기</a></td>
+    <td><a href='https://nadudan.github.io/2022_WebProgramming/'>웹페이지 가기</a></td>
   </tr>
 </table>
 
@@ -47,4 +47,4 @@
 
 > click and go to web site
 
-<a href="https://nadudan.github.io/2022_WebProgramming/main.html">![img](./images/webs.gif)></a>
+<a href="https://nadudan.github.io/2022_WebProgramming/">![img](./images/webs.gif)></a>
